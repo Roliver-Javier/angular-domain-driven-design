@@ -15,7 +15,7 @@
   <a href="#about">About</a> •
   <a href="https://medium.com/@roliver_javier/arquitectura-sostenible-en-angular-91301259e83e">Medium</a> •
   <a href="#author">Author</a> •
-  <a href="#stackblitz>StackBlitz</a>
+  <a href="#stackblitz>Stackblitz</a> •
 </p>
 
 ---
@@ -34,7 +34,7 @@ Te **interesa leer este articulo**? Hechale un vistazo por Medium <a href="https
   <a>Share</a> •
 </p>
 
-# Stackblitz
+## Stackblitz
 <a href="https://stackblitz.com/edit/angular-domain-driven-design">
 https://stackblitz.com/edit/angular-domain-driven-design
 </a>
