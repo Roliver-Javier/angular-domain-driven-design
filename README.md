@@ -15,7 +15,7 @@
   <a href="#about">About</a> •
   <a href="https://medium.com/@roliver_javier/arquitectura-sostenible-en-angular-91301259e83e">Medium</a> •
   <a href="#author">Author</a> •
-  <a href="#stackblitz>Stackblitz</a> •
+  <a href="#stackblitz">Stackblitz</a>
 </p>
 
 ---
@@ -26,12 +26,12 @@ Poder tomar referencias de arquitecturas que se utilizan más del lado del backe
 </p>
 
 <p align="center"> 
-Te **interesa leer este articulo**? Hechale un vistazo por Medium <a href="https://medium.com/@roliver_javier/arquitectura-sostenible-en-angular-91301259e83e">Aqui</a>
-</p>
+Te **interesa leer este articulo**? Hechale un vistazo por Medium <a href="">Aqui</a>
+<br/>
 <p align="center"> 
   <a>Follow</a> •
   <a>Clap</a> •
-  <a>Share</a> •
+  <a>Share</a> 
 </p>
 
 ## Stackblitz
